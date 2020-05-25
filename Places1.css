@@ -1,0 +1,46 @@
+
+
+
+html,body{
+  background-color: black;
+  color: aquamarine;
+}
+
+h2{
+  color:floralwhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul
+{  
+  color:floralwhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+  text-align:inherit;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+background-color: green;
+border: none;
+color: white;
+padding: 10px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+float:right;
+}
+
+
+
+
+
+
+
